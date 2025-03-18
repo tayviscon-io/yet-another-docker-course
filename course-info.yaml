@@ -1,0 +1,11 @@
+type: marketplace
+title: Yet Another Docker Course
+language: Russian
+summary: Курс по основам работы с Docker от Tayviscon IO
+programming_language: Java
+content:
+  - 1_introduction
+additional_files:
+  - name: build.gradle
+  - name: settings.gradle
+yaml_version: 2
